@@ -1,0 +1,34 @@
+{
+  "tasks": [
+    {
+      "id": 2,
+      "text": "Meeting at school",
+      "day": "Mar 1th at 09:14",
+      "reminder": true
+    },
+    {
+      "id": 3,
+      "text": "Food shopping",
+      "day": "jun 15th at 15:00",
+      "reminder": false
+    },
+    {
+      "id": 4,
+      "text": "Go to the Dentist",
+      "day": "April 25th at 15:55",
+      "reminder": true
+    },
+    {
+      "id": 5,
+      "text": "Work Meeting",
+      "day": "Feb 2th at 09:15",
+      "reminder": true
+    },
+    {
+      "id": 6,
+      "text": "Code Review",
+      "day": "Sept 26th at 14:32",
+      "reminder": false
+    }
+  ]
+}
